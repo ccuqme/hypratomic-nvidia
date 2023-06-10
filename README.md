@@ -8,6 +8,6 @@ This image will only contain minor tweaks for my own needs.
 
 # REBASE (DO THIS AT YOUR OWN RISK)
  ```bash
- rpm-ostree rebase ostree-unverified-registry:ghcr.io/ccuqme/hypratomic:latest
+ rpm-ostree rebase ostree-unverified-registry:ghcr.io/ccuqme/hypratomic-nvidia:latest
  ```
 see: [uBlue Startingpoint](https://github.com/ublue-os/startingpoint) and [main uBlue image](https://github.com/ublue-os/main) to see the features uBlue offers!
