@@ -1,4 +1,4 @@
-# Starting point
+# hypratomic-nvidia
 
 [![build-ublue](https://github.com/ccuqme/hypratomic-nvidia/actions/workflows/build.yml/badge.svg)](https://github.com/ccuqme/hypratomic-nvidia/actions/workflows/build.yml)
 
